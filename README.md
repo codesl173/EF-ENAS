@@ -3,18 +3,18 @@ Code for paper Evolutionary neural architecture search based on evaluation corre
 
 # Start the evolutionary process
 
-''' python
+``` python
 python evolution.py
-'''
+```
 
 # Save the best individual for deep training
 
-''' python
+``` python
 python save_mode_for_deep_training.py
-'''
+```
 
 # Training the individual
 
-''' python
+``` python
 python deep_training_model.py
-'''
+```
