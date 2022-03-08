@@ -18,3 +18,8 @@ python save_mode_for_deep_training.py
 ``` python
 python deep_training_model.py
 ```
+
+# Package
+``` sh
+tensorflow  1.14.0
+```
